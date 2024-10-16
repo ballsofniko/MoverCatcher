@@ -1,0 +1,37 @@
+[
+    {
+        "nickname": "JohnDoe",
+        "photo": "https://i.ibb.co/FssbCCy/ava1.jpg",
+        "bestScore": 71
+    },
+    {
+        "nickname": "JaneMi",
+        "photo": "https://i.ibb.co/rdM4LLs/sdsadsd.jpg",
+        "bestScore": 94
+    },
+    {
+        "nickname": "MiaSky",
+        "photo": "https://i.ibb.co/MMnHkwX/images-1.jpg",
+        "bestScore": 121
+    },
+    {
+        "nickname": "MikaDash",
+        "photo": "https://i.ibb.co/FKDTmtL/avatarka-devushka-dlja-soc-setej-02.jpg",
+        "bestScore": 124
+    },
+    {
+        "nickname": "Lina Jok",
+        "photo": "https://i.ibb.co/7RHY3DG/images-2.jpg",
+        "bestScore": 120
+    },
+    {
+        "nickname": "Muhhamad Sara",
+        "photo": "https://i.ibb.co/0VddNVX/1686760529-kartin-papik-pro-p-kartinki-na-avatarku-dlya-muzhchin-priroda-46.jpg",
+        "bestScore": 118
+    },
+    {
+        "nickname": "Clark cleaner",
+        "photo": "https://i.ibb.co/z5ZKwJB/images-3.jpg",
+        "bestScore": 132
+    }
+]
