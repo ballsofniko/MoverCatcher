@@ -2,43 +2,43 @@
     {
         "id": "dfsdfd1231dsfdssdf",
         "nickname": "JohnDoe",
-        "photo": "https://i.ibb.co/FssbCCy/ava1.jpg",
+        "photoURL": "https://i.ibb.co/FssbCCy/ava1.jpg",
         "bestScore": 71
     },
     {
         "id": "dfsdfd1231dsf32dssdf",
         "nickname": "JaneMi",
-        "photo": "https://i.ibb.co/rdM4LLs/sdsadsd.jpg",
+        "photoURL": "https://i.ibb.co/rdM4LLs/sdsadsd.jpg",
         "bestScore": 94
     },
     {
         "id": "dfsdfd1231dsfd2323ssdf",
         "nickname": "MiaSky",
-        "photo": "https://i.ibb.co/MMnHkwX/images-1.jpg",
+        "photoURL": "https://i.ibb.co/MMnHkwX/images-1.jpg",
         "bestScore": 121
     },
     {
         "id": "dfs212322dfd1231dsfdssdf",
         "nickname": "MikaDash",
-        "photo": "https://i.ibb.co/FKDTmtL/avatarka-devushka-dlja-soc-setej-02.jpg",
+        "photoURL": "https://i.ibb.co/FKDTmtL/avatarka-devushka-dlja-soc-setej-02.jpg",
         "bestScore": 124
     },
     {
         "id": "df222sdfd1231dsfdssdf",
         "nickname": "Lina Jok",
-        "photo": "https://i.ibb.co/7RHY3DG/images-2.jpg",
+        "photoURL": "https://i.ibb.co/7RHY3DG/images-2.jpg",
         "bestScore": 120
     },
     {
         "id": "dfs11dfd1231dsfdssdf",
         "nickname": "Muhhamad Sara",
-        "photo": "https://i.ibb.co/0VddNVX/1686760529-kartin-papik-pro-p-kartinki-na-avatarku-dlya-muzhchin-priroda-46.jpg",
+        "photoURL": "https://i.ibb.co/0VddNVX/1686760529-kartin-papik-pro-p-kartinki-na-avatarku-dlya-muzhchin-priroda-46.jpg",
         "bestScore": 118
     },
     {
         "id": "dfsd34fd1231dsfdssdf",
         "nickname": "Clark cleaner",
-        "photo": "https://i.ibb.co/z5ZKwJB/images-3.jpg",
+        "photoURL": "https://i.ibb.co/z5ZKwJB/images-3.jpg",
         "bestScore": 132
     }
 ]
